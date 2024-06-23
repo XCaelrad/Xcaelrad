@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">Я начинающий Frontend разработчик. Мой путь в it начался 
+<p align="left">Я начинающий Frontend разработчик. Мой путь в it начался с изучения UX/UI design, но во времена колледжа на уроке информатики преподаватель познакомил нас с созданием сайта. Именно не дизайном, а версткой. Помню ещё тогда мы писали всё Notepad++. Меня это зацепило, но я продолжала изучать дизайн, поступила даже в ВУЗ. Но в какой-то момент мне попался курс от Stepik "Основы HTML и CSS" и тут началось моё изучение Frontend разработке. Сейчас же я начинаю новый курс на 3 месяца от RS SCHOOL "JavaSkript/Front-end. Pre-school". 
   
 <br>
 
@@ -50,14 +50,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=filimonovalexey&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=filimonovalexey&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=filimonovalexey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=XCaelrad&theme=dark-minimalist&border_radius=6.2&date_format=n%2Fj%5B%2FY%5D" height="220" alt="streak graph"  />
 </div>
 
 ###
